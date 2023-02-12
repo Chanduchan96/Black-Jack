@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@1,300;1,600&family=Zeyada&display=swap');
+
+*{
+    background-color: rgb(7, 121, 7);
+}
+h1 {
+    font-family: 'Zeyada', cursive;
+    font-weight:bold;
+    text-align:center;
+    color:goldenrod;
+}
+body{
+    font-family: 'Chakra Petch', sans-serif;
+    text-align:center;
+    align-items: center;
+    justify-content: center;
+    color:whitesmoke;
+}
+
+#message-el{
+    font-weight:bold;
+}
+
+button{
+    margin:5px;
+    align-items: center;
+    border: none;
+    background:sandybrown;
+    width:15%;
+    border-radius: 5px;
+    box-sizing:border-box;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+button:hover{
+    border: solid red;
+    background:sandybrown;
+}
