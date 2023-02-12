@@ -1,4 +1,4 @@
-//create two vaiables - firstcard and secondcard.
+//create two variables - firstcard and secondcard.
 //set their values to a random number between 2-11
 
 //create a varaiable, sum and set it to the sum od two cards
@@ -75,7 +75,7 @@ else
 }
 
 messageEl.textContent=message;
-console.log(sum);
+
 }
 
 
